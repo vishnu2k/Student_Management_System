@@ -1,0 +1,16 @@
+C1,Introduction to Algorithm ,CSE       ,Thomas,Yes
+C2,C Programming                   ,CSE        ,Brian     ,Yes
+C3,Super Intelligence              ,CSE        ,Nick      ,Yes
+C4,Networking                        ,CSE        ,James  ,No
+CI1,Steel Structure                     ,Civil       ,Duggal  ,Yes
+CI2,Fluid Mechanics                 ,Civil       ,Bansal  ,No
+CI3,Strength of Material          ,Civil       ,Gare      ,Yes
+CI4,Hydrology                           ,Civil       ,Gopal    ,No
+M1,Heat Transformer               ,Mech    ,Deva      ,Yes
+M2,Machine Theory                   ,Mech    ,Ghosh   ,No
+M3,Thermodynamics                 ,Mech,Nag        ,Yes
+M4,Industrial Engineering       ,Mech    ,Swarep ,No
+G1,Psychology                          ,General,Froyd     ,Yes
+G2,Communication                   ,General,Edison   ,No
+G3,Harry Potter                        ,General,J.K.R      ,No
+G4,Sports Star                           ,General,Deva     ,No
